@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\bin\Debug\netcoreapp3.1\7.2.1 Krug.exe
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\bin\Debug\netcoreapp3.1\7.2.1 Krug.deps.json
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\bin\Debug\netcoreapp3.1\7.2.1 Krug.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\bin\Debug\netcoreapp3.1\7.2.1 Krug.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\bin\Debug\netcoreapp3.1\7.2.1 Krug.dll
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\bin\Debug\netcoreapp3.1\7.2.1 Krug.pdb
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\obj\Debug\netcoreapp3.1\7.2.1 Krug.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\obj\Debug\netcoreapp3.1\7.2.1 Krug.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\obj\Debug\netcoreapp3.1\7.2.1 Krug.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\obj\Debug\netcoreapp3.1\7.2.1 Krug.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\obj\Debug\netcoreapp3.1\7.2.1 Krug.dll
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\obj\Debug\netcoreapp3.1\7.2.1 Krug.pdb
+C:\Users\jmedv\source\repos\hello-world\7.2.1 Krug\obj\Debug\netcoreapp3.1\7.2.1 Krug.genruntimeconfig.cache

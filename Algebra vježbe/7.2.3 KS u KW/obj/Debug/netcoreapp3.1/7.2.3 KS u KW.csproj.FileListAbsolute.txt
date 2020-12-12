@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\bin\Debug\netcoreapp3.1\7.2.3 KS u KW.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\bin\Debug\netcoreapp3.1\7.2.3 KS u KW.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\bin\Debug\netcoreapp3.1\7.2.3 KS u KW.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\bin\Debug\netcoreapp3.1\7.2.3 KS u KW.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\bin\Debug\netcoreapp3.1\7.2.3 KS u KW.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\bin\Debug\netcoreapp3.1\7.2.3 KS u KW.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\obj\Debug\netcoreapp3.1\7.2.3 KS u KW.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\obj\Debug\netcoreapp3.1\7.2.3 KS u KW.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\obj\Debug\netcoreapp3.1\7.2.3 KS u KW.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\obj\Debug\netcoreapp3.1\7.2.3 KS u KW.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\obj\Debug\netcoreapp3.1\7.2.3 KS u KW.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\obj\Debug\netcoreapp3.1\7.2.3 KS u KW.genruntimeconfig.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.3 KS u KW\obj\Debug\netcoreapp3.1\7.2.3 KS u KW.csprojAssemblyReference.cache

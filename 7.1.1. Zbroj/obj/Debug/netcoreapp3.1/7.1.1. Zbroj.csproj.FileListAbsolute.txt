@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\bin\Debug\netcoreapp3.1\7.1.1. Zbroj.exe
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\bin\Debug\netcoreapp3.1\7.1.1. Zbroj.deps.json
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\bin\Debug\netcoreapp3.1\7.1.1. Zbroj.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\bin\Debug\netcoreapp3.1\7.1.1. Zbroj.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\bin\Debug\netcoreapp3.1\7.1.1. Zbroj.dll
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\bin\Debug\netcoreapp3.1\7.1.1. Zbroj.pdb
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\obj\Debug\netcoreapp3.1\7.1.1. Zbroj.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\obj\Debug\netcoreapp3.1\7.1.1. Zbroj.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\obj\Debug\netcoreapp3.1\7.1.1. Zbroj.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\obj\Debug\netcoreapp3.1\7.1.1. Zbroj.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\obj\Debug\netcoreapp3.1\7.1.1. Zbroj.dll
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\obj\Debug\netcoreapp3.1\7.1.1. Zbroj.pdb
+C:\Users\jmedv\source\repos\hello-world\7.1.1. Zbroj\obj\Debug\netcoreapp3.1\7.1.1. Zbroj.genruntimeconfig.cache
