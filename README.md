@@ -6,3 +6,6 @@ Ja sam Jasmin Medved. Pokušavam naučiti programirati i svladati alate poput Gi
 Živjeli!
 
 print('Jedan bezvezni kod.')
+
+for i in range(4):
+	print 'Hello!'
