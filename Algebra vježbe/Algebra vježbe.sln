@@ -5,15 +5,29 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.1.1. Zbroj", "..\7.1.1. Zbroj\7.1.1. Zbroj.csproj", "{E33DE467-1233-49F4-B78F-EF5EE133B68C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.1.2 Hipotenuza", "7.1.2 Hipotenuza\7.1.2 Hipotenuza.csproj", "{D36239DA-D54F-433F-AF0C-04EAC7BB92AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.1.2 Hipotenuza", "7.1.2 Hipotenuza\7.1.2 Hipotenuza.csproj", "{D36239DA-D54F-433F-AF0C-04EAC7BB92AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.1 Krug", "..\7.2.1 Krug\7.2.1 Krug.csproj", "{6C86F819-D82A-4F64-8F9B-6F2FD4F80213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.1 Krug", "..\7.2.1 Krug\7.2.1 Krug.csproj", "{6C86F819-D82A-4F64-8F9B-6F2FD4F80213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.2 Jednakokračan trokut", "7.2.2 Jednakokračan trokut\7.2.2 Jednakokračan trokut.csproj", "{E069C8FC-9E29-420D-B5FF-0A9528BD2602}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.2 Jednakokračan trokut", "7.2.2 Jednakokračan trokut\7.2.2 Jednakokračan trokut.csproj", "{E069C8FC-9E29-420D-B5FF-0A9528BD2602}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.3 KS u KW", "7.2.3 KS u KW\7.2.3 KS u KW.csproj", "{80BDC34E-1644-42A5-900B-46FD0FF0B3B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.3 KS u KW", "7.2.3 KS u KW\7.2.3 KS u KW.csproj", "{80BDC34E-1644-42A5-900B-46FD0FF0B3B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.4 Celzij u Fahrenheit", "7.2.4 Celzij u Fahrenheit\7.2.4 Celzij u Fahrenheit.csproj", "{9EEDBD71-6E62-4BC3-8BA6-908C1C281E9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.4 Celzij u Fahrenheit", "7.2.4 Celzij u Fahrenheit\7.2.4 Celzij u Fahrenheit.csproj", "{9EEDBD71-6E62-4BC3-8BA6-908C1C281E9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.5 Udaljenost", "7.2.5 Udaljenost\7.2.5 Udaljenost.csproj", "{7CF1F1B7-F96F-40DB-9F18-C3F00C44320E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.6 Prost broj", "7.2.6 Prost broj\7.2.6 Prost broj.csproj", "{A2BA2BCB-C184-4557-A44F-D72F0E8AB3AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.8 Faktorijel", "7.2.8 Faktorijel\7.2.8 Faktorijel.csproj", "{18A2BB99-D123-4A38-959F-B2208271B0ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.9 Prosjek", "7.2.9 Prosjek\7.2.9 Prosjek.csproj", "{A548C42E-05A1-40B6-BE99-CD8E5770A693}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.10 Ukupna cijena", "7.2.10 Ukupna cijena\7.2.10 Ukupna cijena.csproj", "{EB90D0A7-96A4-42D5-88E9-97B757C0EEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.10.1 Ukupna cijena", "7.2.10.1 Ukupna cijena\7.2.10.1 Ukupna cijena.csproj", "{DD8446D4-167B-4906-8E82-2CC9457C555D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.11 Parni i neparni", "7.2.11 Parni i neparni\7.2.11 Parni i neparni.csproj", "{CEE449A6-B737-409D-A52F-6101F7670DF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +59,34 @@ Global
 		{9EEDBD71-6E62-4BC3-8BA6-908C1C281E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EEDBD71-6E62-4BC3-8BA6-908C1C281E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EEDBD71-6E62-4BC3-8BA6-908C1C281E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF1F1B7-F96F-40DB-9F18-C3F00C44320E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF1F1B7-F96F-40DB-9F18-C3F00C44320E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF1F1B7-F96F-40DB-9F18-C3F00C44320E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF1F1B7-F96F-40DB-9F18-C3F00C44320E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BA2BCB-C184-4557-A44F-D72F0E8AB3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BA2BCB-C184-4557-A44F-D72F0E8AB3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BA2BCB-C184-4557-A44F-D72F0E8AB3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BA2BCB-C184-4557-A44F-D72F0E8AB3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A2BB99-D123-4A38-959F-B2208271B0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A2BB99-D123-4A38-959F-B2208271B0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A2BB99-D123-4A38-959F-B2208271B0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A2BB99-D123-4A38-959F-B2208271B0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A548C42E-05A1-40B6-BE99-CD8E5770A693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A548C42E-05A1-40B6-BE99-CD8E5770A693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A548C42E-05A1-40B6-BE99-CD8E5770A693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A548C42E-05A1-40B6-BE99-CD8E5770A693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB90D0A7-96A4-42D5-88E9-97B757C0EEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB90D0A7-96A4-42D5-88E9-97B757C0EEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB90D0A7-96A4-42D5-88E9-97B757C0EEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB90D0A7-96A4-42D5-88E9-97B757C0EEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8446D4-167B-4906-8E82-2CC9457C555D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8446D4-167B-4906-8E82-2CC9457C555D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8446D4-167B-4906-8E82-2CC9457C555D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8446D4-167B-4906-8E82-2CC9457C555D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE449A6-B737-409D-A52F-6101F7670DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE449A6-B737-409D-A52F-6101F7670DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE449A6-B737-409D-A52F-6101F7670DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE449A6-B737-409D-A52F-6101F7670DF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

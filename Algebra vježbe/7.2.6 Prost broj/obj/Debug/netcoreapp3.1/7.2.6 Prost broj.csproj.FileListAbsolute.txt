@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\bin\Debug\netcoreapp3.1\7.2.6 Prost broj.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\bin\Debug\netcoreapp3.1\7.2.6 Prost broj.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\bin\Debug\netcoreapp3.1\7.2.6 Prost broj.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\bin\Debug\netcoreapp3.1\7.2.6 Prost broj.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\bin\Debug\netcoreapp3.1\7.2.6 Prost broj.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\bin\Debug\netcoreapp3.1\7.2.6 Prost broj.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\obj\Debug\netcoreapp3.1\7.2.6 Prost broj.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\obj\Debug\netcoreapp3.1\7.2.6 Prost broj.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\obj\Debug\netcoreapp3.1\7.2.6 Prost broj.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\obj\Debug\netcoreapp3.1\7.2.6 Prost broj.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\obj\Debug\netcoreapp3.1\7.2.6 Prost broj.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\obj\Debug\netcoreapp3.1\7.2.6 Prost broj.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.6 Prost broj\obj\Debug\netcoreapp3.1\7.2.6 Prost broj.genruntimeconfig.cache

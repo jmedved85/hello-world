@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\bin\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\bin\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\bin\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\bin\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\bin\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\bin\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\obj\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\obj\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\obj\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\obj\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\obj\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\obj\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.10 Ukupna cijena\obj\Debug\netcoreapp3.1\7.2.10 Ukupna cijena.genruntimeconfig.cache
