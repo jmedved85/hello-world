@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\bin\Debug\netcoreapp3.1\7.2.11 Parni i neparni.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\bin\Debug\netcoreapp3.1\7.2.11 Parni i neparni.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\bin\Debug\netcoreapp3.1\7.2.11 Parni i neparni.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\bin\Debug\netcoreapp3.1\7.2.11 Parni i neparni.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\bin\Debug\netcoreapp3.1\7.2.11 Parni i neparni.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\bin\Debug\netcoreapp3.1\7.2.11 Parni i neparni.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\obj\Debug\netcoreapp3.1\7.2.11 Parni i neparni.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\obj\Debug\netcoreapp3.1\7.2.11 Parni i neparni.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\obj\Debug\netcoreapp3.1\7.2.11 Parni i neparni.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\obj\Debug\netcoreapp3.1\7.2.11 Parni i neparni.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\obj\Debug\netcoreapp3.1\7.2.11 Parni i neparni.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\obj\Debug\netcoreapp3.1\7.2.11 Parni i neparni.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\7.2.11 Parni i neparni\obj\Debug\netcoreapp3.1\7.2.11 Parni i neparni.genruntimeconfig.cache
