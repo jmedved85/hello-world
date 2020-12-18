@@ -29,11 +29,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.10.1 Ukupna cijena", "7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.11 Parni i neparni", "7.2.11 Parni i neparni\7.2.11 Parni i neparni.csproj", "{CEE449A6-B737-409D-A52F-6101F7670DF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.1 Proizvod", "8.1.1 Proizvod\8.1.1 Proizvod.csproj", "{BE9388B3-9AEF-4C80-A38B-A40087CCCDD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1.1 Proizvod", "8.1.1 Proizvod\8.1.1 Proizvod.csproj", "{BE9388B3-9AEF-4C80-A38B-A40087CCCDD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.2 Automobil", "8.1.2 Automobil\8.1.2 Automobil.csproj", "{4B189522-7584-426C-8AEE-37BA21ADA5FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1.2 Automobil", "8.1.2 Automobil\8.1.2 Automobil.csproj", "{4B189522-7584-426C-8AEE-37BA21ADA5FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.3 Zaposlenik", "8.1.3 Zaposlenik\8.1.3 Zaposlenik.csproj", "{0F701462-0C03-492F-B054-C3FEB262AC7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1.3 Zaposlenik", "8.1.3 Zaposlenik\8.1.3 Zaposlenik.csproj", "{0F701462-0C03-492F-B054-C3FEB262AC7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadatak_2_Kolac", "Zadatak_2_Kolac\Zadatak_2_Kolac.csproj", "{D1BA6964-61BE-4DAA-A36B-872B3AE59AE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2.1 Static", "8.2.1 Static\8.2.1 Static.csproj", "{7536C66B-BB7A-476A-9391-66F6A8A29066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2.2 Static i instanca", "8.2.2 Static i instanca\8.2.2 Static i instanca.csproj", "{00C90CB3-FA50-4EBC-986B-9752A9730451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.3.1 Vozila", "8.3.1 Vozila\8.3.1 Vozila.csproj", "{864F130C-7E99-416F-8E3F-693A47572EC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +113,22 @@ Global
 		{0F701462-0C03-492F-B054-C3FEB262AC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F701462-0C03-492F-B054-C3FEB262AC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F701462-0C03-492F-B054-C3FEB262AC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BA6964-61BE-4DAA-A36B-872B3AE59AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BA6964-61BE-4DAA-A36B-872B3AE59AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BA6964-61BE-4DAA-A36B-872B3AE59AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BA6964-61BE-4DAA-A36B-872B3AE59AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7536C66B-BB7A-476A-9391-66F6A8A29066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7536C66B-BB7A-476A-9391-66F6A8A29066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7536C66B-BB7A-476A-9391-66F6A8A29066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7536C66B-BB7A-476A-9391-66F6A8A29066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C90CB3-FA50-4EBC-986B-9752A9730451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C90CB3-FA50-4EBC-986B-9752A9730451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C90CB3-FA50-4EBC-986B-9752A9730451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C90CB3-FA50-4EBC-986B-9752A9730451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864F130C-7E99-416F-8E3F-693A47572EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864F130C-7E99-416F-8E3F-693A47572EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864F130C-7E99-416F-8E3F-693A47572EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864F130C-7E99-416F-8E3F-693A47572EC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

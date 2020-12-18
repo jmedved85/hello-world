@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\obj\Debug\netcoreapp3.1\Zadatak_2_Kolac.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\obj\Debug\netcoreapp3.1\Zadatak_2_Kolac.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\obj\Debug\netcoreapp3.1\Zadatak_2_Kolac.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\obj\Debug\netcoreapp3.1\Zadatak_2_Kolac.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\bin\Debug\netcoreapp3.1\Zadatak_2_Kolac.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\bin\Debug\netcoreapp3.1\Zadatak_2_Kolac.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\bin\Debug\netcoreapp3.1\Zadatak_2_Kolac.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\bin\Debug\netcoreapp3.1\Zadatak_2_Kolac.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\bin\Debug\netcoreapp3.1\Zadatak_2_Kolac.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\bin\Debug\netcoreapp3.1\Zadatak_2_Kolac.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\obj\Debug\netcoreapp3.1\Zadatak_2_Kolac.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\obj\Debug\netcoreapp3.1\Zadatak_2_Kolac.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Zadatak_2_Kolac\obj\Debug\netcoreapp3.1\Zadatak_2_Kolac.genruntimeconfig.cache

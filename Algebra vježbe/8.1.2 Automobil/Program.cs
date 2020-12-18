@@ -22,7 +22,7 @@ namespace _8._1._2_Automobil
             aut1.OsnovnaCijena = double.Parse(Console.ReadLine());
 
             // Ispis iznosa poreza i ukupne cijene
-            Console.WriteLine("Automobil {0} oporezovan je s {1}% i njegova ukupna cijena je: {2} kn."
+            Console.WriteLine("Prodajna cijena automobila marke {0} s {1}% poreza iznosi: {2} kn."
                 , aut1.MarkaAutomobila, aut1.IznosPoreza(), aut1.UkupnaCijena());         
         }
     }
