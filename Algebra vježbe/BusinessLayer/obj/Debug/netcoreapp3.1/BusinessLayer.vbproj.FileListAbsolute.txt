@@ -1,0 +1,3 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.vb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.vbproj.CoreCompileInputs.cache

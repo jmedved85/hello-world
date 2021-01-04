@@ -8,7 +8,7 @@ namespace _8._3._1_Vozila
     {
         public delegate void NaPromjenuIstisnineDelegat(object o, EventArgs e);
         public event NaPromjenuIstisnineDelegat NaPromjenuIstisnine;
-        double istisnina;
+        private double istisnina;
 
         public double Istisnina
         {

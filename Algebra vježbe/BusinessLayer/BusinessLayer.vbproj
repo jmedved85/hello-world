@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>BusinessLayer</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Automobil.cs" />
+    <None Remove="Brod.cs" />
+    <None Remove="Vozilo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Automobil.cs" />
+    <Compile Include="Brod.cs" />
+    <Compile Include="Vozilo.cs" />
+  </ItemGroup>
+
+</Project>

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _8._3._1_Vozila
 {
-    class Vozilo
+    public class Vozilo
     {
         string naziv;
         string boja;

@@ -15,7 +15,6 @@ namespace _8._3._1_Vozila
             Automobili automobili = new Automobili();
 
             // Dok je "zastavica" za unos dignuta, učitavamo vozila
-
             while (unos == 'D' || unos == 'd')
             {
                 // Odabir tipa vozila
@@ -45,7 +44,8 @@ namespace _8._3._1_Vozila
                     // Instanciranje objekta klase Brod
                     Brod brod = new Brod();
                     // Delegiranje događaja
-                    // brod.NaPromjenuIstisnine += new Brod.NaPromjenuIstisnineDelegat(NaPromjenuIstisnine);
+                    
+                    brod.NaPromjenuIstisnine += new Brod.NaPromjenuIstisnineDelegat(NaPromjenuIstisnine);
                     Console.Write("Unesite naziv broda: ");
                     brod.Naziv = Console.ReadLine();
                     Console.Write("Unesite boju broda: ");
@@ -82,14 +82,14 @@ namespace _8._3._1_Vozila
                 Console.WriteLine(automobili.ToString());
             }
             Console.ReadKey();
-            // brod.NaPromjenuIstisnine -= new Brod.NaPromjenuIstisnineDelegat(NaPromjenuIstisnine);
+            brod.NaPromjenuIstisnine -= new Brod.NaPromjenuIstisnineDelegat(NaPromjenuIstisnine);
         }
         // Implementacija događaja NaPromjenuIstisnine
-         /*static void NaPromjenuIstisnine(object o, EventArgs e)
+         static void NaPromjenuIstisnine(object o, EventArgs e)
         {
             Brod brod = (Brod)o;
             Console.WriteLine("Dogodila se promjena istisnine.");
             Console.WriteLine("Nova istisnina: {0}", brod.Istisnina);
-        }*/
+        }
     }
 }
