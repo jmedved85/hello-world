@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\bin\Debug\netcoreapp3.1\Primjer 9. Stringovi.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\bin\Debug\netcoreapp3.1\Primjer 9. Stringovi.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\bin\Debug\netcoreapp3.1\Primjer 9. Stringovi.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\bin\Debug\netcoreapp3.1\Primjer 9. Stringovi.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\bin\Debug\netcoreapp3.1\Primjer 9. Stringovi.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\bin\Debug\netcoreapp3.1\Primjer 9. Stringovi.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\obj\Debug\netcoreapp3.1\Primjer 9. Stringovi.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\obj\Debug\netcoreapp3.1\Primjer 9. Stringovi.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\obj\Debug\netcoreapp3.1\Primjer 9. Stringovi.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\obj\Debug\netcoreapp3.1\Primjer 9. Stringovi.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\obj\Debug\netcoreapp3.1\Primjer 9. Stringovi.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\obj\Debug\netcoreapp3.1\Primjer 9. Stringovi.genruntimeconfig.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 9. Stringovi\obj\Debug\netcoreapp3.1\Primjer 9. Stringovi.csprojAssemblyReference.cache

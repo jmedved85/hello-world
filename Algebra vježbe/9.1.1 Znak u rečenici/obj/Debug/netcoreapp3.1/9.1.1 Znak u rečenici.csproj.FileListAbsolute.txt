@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\bin\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\bin\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\bin\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\bin\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\bin\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\bin\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\obj\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\obj\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\obj\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\obj\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\obj\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\obj\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.1 Znak u rečenici\obj\Debug\netcoreapp3.1\9.1.1 Znak u rečenici.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\bin\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\bin\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\bin\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\bin\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\bin\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\bin\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\obj\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\obj\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\obj\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\obj\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\obj\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\obj\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.5 Koliko puta se ponavlja riječ\obj\Debug\netcoreapp3.1\9.1.5 Koliko puta se ponavlja riječ.genruntimeconfig.cache

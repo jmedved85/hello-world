@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\bin\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\bin\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\bin\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\bin\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\bin\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\bin\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\obj\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\obj\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\obj\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\obj\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\obj\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\obj\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\9.1.4 Brojanje riječi\obj\Debug\netcoreapp3.1\9.1.4 Brojanje riječi.genruntimeconfig.cache

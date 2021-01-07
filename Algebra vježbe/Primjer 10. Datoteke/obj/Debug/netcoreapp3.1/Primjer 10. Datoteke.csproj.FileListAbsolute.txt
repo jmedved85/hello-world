@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\bin\Debug\netcoreapp3.1\Primjer 10. Datoteke.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\bin\Debug\netcoreapp3.1\Primjer 10. Datoteke.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\bin\Debug\netcoreapp3.1\Primjer 10. Datoteke.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\bin\Debug\netcoreapp3.1\Primjer 10. Datoteke.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\bin\Debug\netcoreapp3.1\Primjer 10. Datoteke.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\bin\Debug\netcoreapp3.1\Primjer 10. Datoteke.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\obj\Debug\netcoreapp3.1\Primjer 10. Datoteke.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\obj\Debug\netcoreapp3.1\Primjer 10. Datoteke.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\obj\Debug\netcoreapp3.1\Primjer 10. Datoteke.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\obj\Debug\netcoreapp3.1\Primjer 10. Datoteke.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\obj\Debug\netcoreapp3.1\Primjer 10. Datoteke.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\obj\Debug\netcoreapp3.1\Primjer 10. Datoteke.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 10. Datoteke\obj\Debug\netcoreapp3.1\Primjer 10. Datoteke.genruntimeconfig.cache
