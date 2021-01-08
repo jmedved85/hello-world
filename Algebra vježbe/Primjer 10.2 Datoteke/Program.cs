@@ -25,6 +25,26 @@ namespace Primjer_10._2_Datoteke
                 Directory.CreateDirectory("Proba");
             }
 
+            if (!File.Exists("Proba.txt"))
+            {
+                File.Create("Proba.txt");
+            }
+
+            Console.WriteLine();
+            string curDirs = Environment.CurrentDirectory;
+            string[] arrCurDirs = Directory.GetDirectories(curDirs);
+            foreach (var item in arrCurDirs)
+            {
+                Console.WriteLine(Path.GetFileName(item));
+            }
+            Console.WriteLine();
+            string[] arrCurFiles = Directory.GetFiles(curDirs);
+            foreach (var item in arrCurFiles)
+            {
+                Console.WriteLine(Path.GetFileName(item));
+            }
+
+            Console.WriteLine();
             // Ispisujem sve foldere na c-u
             Console.WriteLine("Direktoriji na C:");
             string[] sDirs = Directory.GetDirectories(@"C:\"); // specijalni znak @ omogućuje da će se znak '\' doslovno interpretirati a ne kao escape sekvenca

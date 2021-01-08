@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\bin\Debug\netcoreapp3.1\10.1.6 Directory Tree.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\bin\Debug\netcoreapp3.1\10.1.6 Directory Tree.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\bin\Debug\netcoreapp3.1\10.1.6 Directory Tree.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\bin\Debug\netcoreapp3.1\10.1.6 Directory Tree.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\bin\Debug\netcoreapp3.1\10.1.6 Directory Tree.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\bin\Debug\netcoreapp3.1\10.1.6 Directory Tree.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\obj\Debug\netcoreapp3.1\10.1.6 Directory Tree.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\obj\Debug\netcoreapp3.1\10.1.6 Directory Tree.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\obj\Debug\netcoreapp3.1\10.1.6 Directory Tree.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\obj\Debug\netcoreapp3.1\10.1.6 Directory Tree.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\obj\Debug\netcoreapp3.1\10.1.6 Directory Tree.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\obj\Debug\netcoreapp3.1\10.1.6 Directory Tree.genruntimeconfig.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\10.1.6 Directory Tree\obj\Debug\netcoreapp3.1\10.1.6 Directory Tree.csprojAssemblyReference.cache

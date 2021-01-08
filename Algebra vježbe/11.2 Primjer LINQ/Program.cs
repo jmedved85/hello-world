@@ -15,7 +15,7 @@ namespace _11._2_Primjer_LINQ
             osobe.Add(new Osoba { Ime = "Žarko", Prezime = "Žmarko" });
             osobe.Add(new Osoba { Ime = "Dana", Prezime = "Banana" });
 
-            // Klasičan način pretrage bet LINQ-a
+            // Klasičan način pretrage bez LINQ-a
             Osoba trazenaOsoba = new Osoba();
             foreach (Osoba os in osobe)
             {
@@ -31,10 +31,10 @@ namespace _11._2_Primjer_LINQ
 
             Osoba trazenaOsobaLINQ_Prezime = new Osoba();
             trazenaOsobaLINQ_Prezime = (
-                from o in osobe
-                where o.Prezime == "Spirko"
-                select o).SingleOrDefault();
-
+                from o in osobe // ključna riječ nakon koje navodimo alias (proizvoljno ime objekta kojeg želimo izvući iz kolekcije)
+                where o.Prezime == "Spirko" // definiramo uvjete pretrage
+                select o).SingleOrDefault(); // definiramo koje dostupne podatke za navedeni alias želimo vratiti upitom
+                // 
             Console.WriteLine(trazenaOsobaLINQ_Prezime.Prezime);
 
             Osoba trazenaOsobaLINQ_Ime = new Osoba();
