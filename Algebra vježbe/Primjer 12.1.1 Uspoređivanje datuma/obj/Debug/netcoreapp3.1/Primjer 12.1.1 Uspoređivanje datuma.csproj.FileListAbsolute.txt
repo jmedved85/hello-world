@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\bin\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\bin\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\bin\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\bin\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\bin\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\bin\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\obj\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\obj\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\obj\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\obj\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\obj\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\obj\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\Primjer 12.1.1 Uspoređivanje datuma\obj\Debug\netcoreapp3.1\Primjer 12.1.1 Uspoređivanje datuma.genruntimeconfig.cache
