@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\bin\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\bin\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\bin\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\bin\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\bin\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\bin\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\obj\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\obj\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\obj\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\obj\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\obj\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\obj\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\13.1.1 Osobe i životinje\obj\Debug\netcoreapp3.1\13.1.1 Osobe i životinje.genruntimeconfig.cache
