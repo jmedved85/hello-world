@@ -31,7 +31,8 @@ namespace WebApplication1
                 app.UseDeveloperExceptionPage();
             }
 
-
+            // app.UseDefaultFiles(); // ovo se mora pozvati PRIJE usestaticfiles()
+            app.UseFileServer(enableDirectoryBrowsing: true);
             // default wwwroot
             // app.UseStaticFiles();
 
@@ -46,13 +47,22 @@ namespace WebApplication1
                     RequestPath = "/StaticFiles" //na ovu rutu mapiramo gornji folder 'MyStaticFiles'
                 });
 
-            // Ukoliko želimo browsati po folderu
-            app.UseDirectoryBrowser(new DirectoryBrowserOptions // te statièke fileove možemo browseati
+            // Ovo koristimo kada želimo I directory browsing I index.htm defaultne stranice
+            app.UseFileServer(new FileServerOptions
             {
                 FileProvider = new PhysicalFileProvider(
                 Path.Combine(env.ContentRootPath, "MyStaticFiles")),
-                RequestPath = "/StaticFiles"
+                RequestPath = "/StaticFiles",
+                EnableDirectoryBrowsing = true
             });
+
+            //// Ukoliko želimo browsati po folderu
+            //app.UseDirectoryBrowser(new DirectoryBrowserOptions // te statièke fileove možemo browseati
+            //{
+            //    FileProvider = new PhysicalFileProvider(
+            //    Path.Combine(env.ContentRootPath, "MyStaticFiles")),
+            //    RequestPath = "/StaticFiles"
+            //});
 
 
 

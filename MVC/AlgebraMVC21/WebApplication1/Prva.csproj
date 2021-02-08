@@ -7,6 +7,7 @@
   <ItemGroup>
     <None Remove="MyStaticFiles\druga.html" />
     <None Remove="MyStaticFiles\images\grb.png" />
+    <None Remove="MyStaticFiles\index.html" />
     <None Remove="MyStaticFiles\prva.html" />
   </ItemGroup>
 
@@ -16,6 +17,10 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
     <Content Include="MyStaticFiles\images\grb.png">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="MyStaticFiles\index.html">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
