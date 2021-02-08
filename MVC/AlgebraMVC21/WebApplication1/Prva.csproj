@@ -4,4 +4,25 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="MyStaticFiles\druga.html" />
+    <None Remove="MyStaticFiles\images\grb.png" />
+    <None Remove="MyStaticFiles\prva.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="MyStaticFiles\druga.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="MyStaticFiles\images\grb.png">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="MyStaticFiles\prva.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
