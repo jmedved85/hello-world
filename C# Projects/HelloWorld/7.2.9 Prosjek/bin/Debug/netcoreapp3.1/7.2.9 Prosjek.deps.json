@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "7.2.9 Prosjek/1.0.0": {
+        "runtime": {
+          "7.2.9 Prosjek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7.2.9 Prosjek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

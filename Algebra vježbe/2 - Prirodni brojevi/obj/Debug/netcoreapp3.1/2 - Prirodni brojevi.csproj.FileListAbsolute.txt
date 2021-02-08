@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\bin\Debug\netcoreapp3.1\2 - Prirodni brojevi.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\bin\Debug\netcoreapp3.1\2 - Prirodni brojevi.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\bin\Debug\netcoreapp3.1\2 - Prirodni brojevi.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\bin\Debug\netcoreapp3.1\2 - Prirodni brojevi.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\bin\Debug\netcoreapp3.1\2 - Prirodni brojevi.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\bin\Debug\netcoreapp3.1\2 - Prirodni brojevi.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\obj\Debug\netcoreapp3.1\2 - Prirodni brojevi.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\obj\Debug\netcoreapp3.1\2 - Prirodni brojevi.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\obj\Debug\netcoreapp3.1\2 - Prirodni brojevi.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\obj\Debug\netcoreapp3.1\2 - Prirodni brojevi.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\obj\Debug\netcoreapp3.1\2 - Prirodni brojevi.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\obj\Debug\netcoreapp3.1\2 - Prirodni brojevi.genruntimeconfig.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\2 - Prirodni brojevi\obj\Debug\netcoreapp3.1\2 - Prirodni brojevi.csprojAssemblyReference.cache

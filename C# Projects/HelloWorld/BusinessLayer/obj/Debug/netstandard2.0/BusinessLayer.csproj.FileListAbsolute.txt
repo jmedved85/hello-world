@@ -1,0 +1,9 @@
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb

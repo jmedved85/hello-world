@@ -1,0 +1,13 @@
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\bin\Debug\netcoreapp3.1\1 - Tekst Naopako.exe
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\bin\Debug\netcoreapp3.1\1 - Tekst Naopako.deps.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\bin\Debug\netcoreapp3.1\1 - Tekst Naopako.runtimeconfig.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\bin\Debug\netcoreapp3.1\1 - Tekst Naopako.runtimeconfig.dev.json
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\bin\Debug\netcoreapp3.1\1 - Tekst Naopako.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\bin\Debug\netcoreapp3.1\1 - Tekst Naopako.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\obj\Debug\netcoreapp3.1\1 - Tekst Naopako.csprojAssemblyReference.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\obj\Debug\netcoreapp3.1\1 - Tekst Naopako.AssemblyInfoInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\obj\Debug\netcoreapp3.1\1 - Tekst Naopako.AssemblyInfo.cs
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\obj\Debug\netcoreapp3.1\1 - Tekst Naopako.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\obj\Debug\netcoreapp3.1\1 - Tekst Naopako.dll
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\obj\Debug\netcoreapp3.1\1 - Tekst Naopako.pdb
+C:\Users\jmedv\source\repos\hello-world\Algebra vježbe\1 - Tekst Naopako\obj\Debug\netcoreapp3.1\1 - Tekst Naopako.genruntimeconfig.cache

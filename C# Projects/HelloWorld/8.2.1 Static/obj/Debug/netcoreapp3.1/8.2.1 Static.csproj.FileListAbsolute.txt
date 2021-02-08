@@ -1,0 +1,13 @@
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\bin\Debug\netcoreapp3.1\8.2.1 Static.exe
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\bin\Debug\netcoreapp3.1\8.2.1 Static.deps.json
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\bin\Debug\netcoreapp3.1\8.2.1 Static.runtimeconfig.json
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\bin\Debug\netcoreapp3.1\8.2.1 Static.runtimeconfig.dev.json
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\bin\Debug\netcoreapp3.1\8.2.1 Static.dll
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\bin\Debug\netcoreapp3.1\8.2.1 Static.pdb
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\obj\Debug\netcoreapp3.1\8.2.1 Static.csprojAssemblyReference.cache
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\obj\Debug\netcoreapp3.1\8.2.1 Static.AssemblyInfoInputs.cache
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\obj\Debug\netcoreapp3.1\8.2.1 Static.AssemblyInfo.cs
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\obj\Debug\netcoreapp3.1\8.2.1 Static.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\obj\Debug\netcoreapp3.1\8.2.1 Static.dll
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\obj\Debug\netcoreapp3.1\8.2.1 Static.pdb
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\8.2.1 Static\obj\Debug\netcoreapp3.1\8.2.1 Static.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\bin\Debug\netcoreapp3.1\6.1.2 Max.exe
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\bin\Debug\netcoreapp3.1\6.1.2 Max.deps.json
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\bin\Debug\netcoreapp3.1\6.1.2 Max.runtimeconfig.json
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\bin\Debug\netcoreapp3.1\6.1.2 Max.runtimeconfig.dev.json
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\bin\Debug\netcoreapp3.1\6.1.2 Max.dll
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\bin\Debug\netcoreapp3.1\6.1.2 Max.pdb
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\obj\Debug\netcoreapp3.1\6.1.2 Max.AssemblyInfoInputs.cache
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\obj\Debug\netcoreapp3.1\6.1.2 Max.AssemblyInfo.cs
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\obj\Debug\netcoreapp3.1\6.1.2 Max.csproj.CoreCompileInputs.cache
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\obj\Debug\netcoreapp3.1\6.1.2 Max.dll
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\obj\Debug\netcoreapp3.1\6.1.2 Max.pdb
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\obj\Debug\netcoreapp3.1\6.1.2 Max.genruntimeconfig.cache
+C:\Users\jmedv\Radna površina\C# Projects\HelloWorld\6.1.2 Max\obj\Debug\netcoreapp3.1\6.1.2 Max.csprojAssemblyReference.cache

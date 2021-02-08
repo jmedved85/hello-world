@@ -35,11 +35,11 @@ namespace _13._1._1_Osobe_i_životinje
             Console.WriteLine(object.ReferenceEquals(osoba3, osoba1.Partner)); // TRUE
 
             // Koristeći interface možemo pristupiti skupini više različitih
-            // objekata ako svi oni imaju mplementiranu određenu metodu
+            // objekata ako svi oni imaju implementiranu određenu metodu
             IDisposable dis = osoba1;
             dis.Dispose();
 
-            // Primjer korištenja mog vlastitof interfacea
+            // Primjer korištenja mog vlastitog interfacea
             Osoba osoba = new Osoba();
             osoba.Ime = "Pero";
             osoba.Prezime = "Perić";
