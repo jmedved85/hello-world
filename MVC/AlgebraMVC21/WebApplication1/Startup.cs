@@ -19,20 +19,26 @@ namespace WebApplication1
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env) // dependency injection
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseStaticFiles();
+
             app.UseRouting();
 
-            app.UseEndpoints(endpoints =>
+            app.UseEndpoints(endpoints => // endpoint mapirane adrese
             {
-                endpoints.MapGet("/", async context =>
+                endpoints.MapGet("/", async context => // mapirana ruta
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    await context.Response.WriteAsync("<b>Hello World!</b>"); // mapiran odgovor
+                });
+                endpoints.MapGet("/123/", async context =>
+                {
+                    await context.Response.WriteAsync("Dobar dan 123 ");
                 });
             });
         }

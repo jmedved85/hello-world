@@ -1,0 +1,14 @@
+﻿KORACI:
+
+
+1. Kreiraj novi C# Core web app
+
+2. U startup.cs dodati 
+	app.UseStaticFiles();
+
+3. Kreirati folder
+	wwwroot
+
+4. Kreirati stranicu prva.html u folderu wwwroot
+
+5. Pokrenuti projekt i na adresi localhost:5000/prva.html

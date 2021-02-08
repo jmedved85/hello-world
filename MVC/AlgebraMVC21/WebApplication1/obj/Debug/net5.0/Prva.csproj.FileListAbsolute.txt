@@ -20,3 +20,4 @@ C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\WebApplication1\obj\Deb
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\WebApplication1\obj\Debug\net5.0\ref\Prva.dll
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\WebApplication1\obj\Debug\net5.0\Prva.pdb
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\WebApplication1\obj\Debug\net5.0\Prva.genruntimeconfig.cache
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\WebApplication1\obj\Debug\net5.0\Prva.csprojAssemblyReference.cache
