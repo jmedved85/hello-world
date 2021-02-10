@@ -16,7 +16,7 @@ namespace WebApplication1
     {
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
-        public void ConfigureServices(IServiceCollection services)
+        public void ConfigureServices(IServiceCollection services) // ukljuèuje koje servise mi želimo
         {
             services.AddControllersWithViews();
             services.AddDirectoryBrowser();
@@ -71,11 +71,11 @@ namespace WebApplication1
 
             app.UseEndpoints(endpoints => // endpoint mapirane adrese
             {
-                endpoints.MapGet("/", async context => // mapirana ruta
+                endpoints.MapGet("/", async context => // mapirana ruta, root nod
                 {
                     await context.Response.WriteAsync("<b>Hello World!</b>"); // mapiran odgovor
                 });
-                endpoints.MapGet("/123/", async context =>
+                endpoints.MapGet("/123/", async context => // mapiraj mi adresu 123 i vrati mi nekakav response, ispiši
                 {
                     await context.Response.WriteAsync("Dobar dan 123 ");
                 });
