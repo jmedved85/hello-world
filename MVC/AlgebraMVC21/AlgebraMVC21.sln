@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontroleriAkcije", "Kontrol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modeli", "Modeli\Modeli.csproj", "{61CF0BC4-8849-4576-AA49-DFCB437C8646}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pogledi", "Pogledi\Pogledi.csproj", "{6DE318A4-F17E-46A2-B9BC-C6CA8F06F32A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{61CF0BC4-8849-4576-AA49-DFCB437C8646}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61CF0BC4-8849-4576-AA49-DFCB437C8646}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61CF0BC4-8849-4576-AA49-DFCB437C8646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE318A4-F17E-46A2-B9BC-C6CA8F06F32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE318A4-F17E-46A2-B9BC-C6CA8F06F32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE318A4-F17E-46A2-B9BC-C6CA8F06F32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE318A4-F17E-46A2-B9BC-C6CA8F06F32A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
