@@ -1,0 +1,8 @@
+﻿Koraci za Code first su ovdje:
+
+1) Kreiraj model
+2) Dodaj DbSet u MvcMovieContext
+3) -> 
+
+PM> add-migration ime_migracije
+PM> update-database

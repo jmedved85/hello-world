@@ -173,3 +173,9 @@ C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\MVC2021\obj\Debug\net5.0\Razor\Views\Actors\ListaFilmova.cshtml.g.cs

@@ -18,5 +18,6 @@ namespace MVC2021.Data
         }
 
         public DbSet<Movie> Movie { get; set; } // DbSet je baza podataka koja će se zvati Movie (mapiranje baze podataka)
+        public DbSet<Actor> Glumci { get; set; }
     }
 }
