@@ -1,0 +1,21 @@
+﻿@model string
+@{
+    Layout = null;
+    string dodPoruka = "Ovo je bila jednostavna operacija";
+    int nekakavBroj = 15;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <label>@Model</label><br />
+        <p>@dodPoruka Nekakav broj je @nekakavBroj</p>
+    </div>
+</body>
+</html>
