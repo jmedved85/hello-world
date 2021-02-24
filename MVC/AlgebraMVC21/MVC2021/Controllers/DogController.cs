@@ -23,5 +23,18 @@ namespace MVC2021.Controllers
             string model = "Pozdrav svijete iz MVC-a!";
             return View((object)model); //Views/Dog/Pozdrav.cshtml
         }
+
+        // http://localhost:5000/Dog/Ola?NekiBroj=7
+        public IActionResult Ola(int NekiBroj = 1)
+        {
+            //// neke varijable koje bacamo na view
+            //ViewData["Poruka"] = "Uplati mi na račun";
+            //ViewData["NekiBroj"] = NekiBroj;
+
+            // string olaPozdrav = "Pozdrav svijete iz MVC-a! Unešeni broj je " + NekiBroj;
+            string olaPozdrav = "<p> neki text</p>";
+            return Content(olaPozdrav, "text/xml"); 
+        }
+
     }
 }
