@@ -1,5 +1,6 @@
 ﻿using BazaSeminari.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -11,22 +12,22 @@ namespace BazaSeminari.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly Baza_SeminariContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(Baza_SeminariContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> IndexAsync()
         {
-            return View();
+            return View(await _context.Seminars.ToListAsync());
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+        //public IActionResult Pretraga()
+        //{
+        //    return View();
+        //}
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

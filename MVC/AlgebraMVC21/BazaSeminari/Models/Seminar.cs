@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 #nullable disable
 
@@ -15,6 +16,8 @@ namespace BazaSeminari.Models
         public int IdSeminar { get; set; }
         public string Naziv { get; set; }
         public string Opis { get; set; }
+
+        [DataType(DataType.Date)]
         public DateTime? Datum { get; set; }
         public bool? Popunjen { get; set; }
 
