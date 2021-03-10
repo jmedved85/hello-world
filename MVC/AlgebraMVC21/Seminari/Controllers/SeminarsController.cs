@@ -47,7 +47,7 @@ namespace Seminari.Controllers
         // GET: Seminars/Create
         public IActionResult Create()
         {
-            ViewData["IdZaposlenik"] = new SelectList(_context.Zaposleniks, "IdZaposlenik", "Ime");
+            ViewData["IdZaposlenik"] = new SelectList(_context.Zaposleniks, "IdZaposlenik", "ImePrezime", "Prezime");
             return View();
         }
 
@@ -64,7 +64,7 @@ namespace Seminari.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdZaposlenik"] = new SelectList(_context.Zaposleniks, "IdZaposlenik", "Ime", seminar.IdZaposlenik);
+            ViewData["IdZaposlenik"] = new SelectList(_context.Zaposleniks, "IdZaposlenik", "ImePrezime", seminar.IdZaposlenik);
             return View(seminar);
         }
 
@@ -81,7 +81,7 @@ namespace Seminari.Controllers
             {
                 return NotFound();
             }
-            ViewData["IdZaposlenik"] = new SelectList(_context.Zaposleniks, "IdZaposlenik", "Ime", seminar.IdZaposlenik);
+            ViewData["IdZaposlenik"] = new SelectList(_context.Zaposleniks, "IdZaposlenik", "ImePrezime", seminar.IdZaposlenik);
             return View(seminar);
         }
 
@@ -117,7 +117,7 @@ namespace Seminari.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdZaposlenik"] = new SelectList(_context.Zaposleniks, "IdZaposlenik", "Ime", seminar.IdZaposlenik);
+            ViewData["IdZaposlenik"] = new SelectList(_context.Zaposleniks, "IdZaposlenik", "ImePrezime", seminar.IdZaposlenik);
             return View(seminar);
         }
 

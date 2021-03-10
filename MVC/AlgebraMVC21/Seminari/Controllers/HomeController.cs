@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using Seminari.Models;
 using System;
@@ -11,21 +12,24 @@ namespace Seminari.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly Baza_SeminariContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(Baza_SeminariContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> IndexAsync(string pretraga)
         {
-            return View();
-        }
+            var rezultat = from r in _context.Seminars
+                           select r;
 
-        public IActionResult Privacy()
-        {
-            return View();
+            if (!string.IsNullOrEmpty(pretraga))
+            {
+                rezultat = rezultat.Where(p => p.Naziv.Contains(pretraga));
+            }
+
+            return View(await rezultat.ToListAsync());           
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
