@@ -19,8 +19,10 @@ namespace BazaSeminari.Models
 
         [DataType(DataType.Date)]
         public DateTime? Datum { get; set; }
+        public int IdZaposlenik { get; set; }
         public bool? Popunjen { get; set; }
 
         public virtual ICollection<Predbiljezba> Predbiljezbas { get; set; }
+        public virtual Zaposlenik IdZaposlenikNavigation { get; set; }
     }
 }

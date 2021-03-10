@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SIrL2CcaLZjbVZayk82cMSJfqOQ1zvP1NASAw3au5DVykTB/LqnX2NFdCvyI44pKFOUDxNN2Br7utgZ5UCacmQ==",
+  "dgSpecHash": "4fb5bZu9C++H2o2TxOgXfX38RWWz44yTPn0BY5lCZ5cJ5FvHwYNXYSG01ZfJWeSYPfKvcdls1z2jM3hKyvITrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jmedv\\source\\repos\\hello-world\\MVC\\AlgebraMVC21\\BazaSeminari\\BazaSeminari.csproj",
+  "projectFilePath": "C:\\Users\\jmedv\\source\\repos\\hello-world\\MVC\\AlgebraMVC21\\BazaSeminari\\BazaSeminari_staro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jmedv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jmedv\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

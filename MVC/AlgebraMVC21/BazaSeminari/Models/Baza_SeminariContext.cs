@@ -1,6 +1,6 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using System;
 
 #nullable disable
 
@@ -99,6 +99,12 @@ namespace BazaSeminari.Models
                 entity.Property(e => e.Opis)
                     .HasMaxLength(250)
                     .HasColumnName("opis");
+
+                entity.HasOne(d => d.IdZaposlenikNavigation)
+                   .WithMany(p => p.Seminars)
+                   .HasForeignKey(d => d.IdZaposlenik)
+                   .OnDelete(DeleteBehavior.ClientSetNull)
+                   .HasConstraintName("FK_seminar_zaposlenik");
 
                 entity.Property(e => e.Popunjen).HasColumnName("popunjen");
             });

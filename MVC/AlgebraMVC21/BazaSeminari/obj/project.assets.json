@@ -7156,9 +7156,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmedv\\source\\repos\\hello-world\\MVC\\AlgebraMVC21\\BazaSeminari\\BazaSeminari.csproj",
-      "projectName": "BazaSeminari",
-      "projectPath": "C:\\Users\\jmedv\\source\\repos\\hello-world\\MVC\\AlgebraMVC21\\BazaSeminari\\BazaSeminari.csproj",
+      "projectUniqueName": "C:\\Users\\jmedv\\source\\repos\\hello-world\\MVC\\AlgebraMVC21\\BazaSeminari\\BazaSeminari_staro.csproj",
+      "projectName": "BazaSeminari_staro",
+      "projectPath": "C:\\Users\\jmedv\\source\\repos\\hello-world\\MVC\\AlgebraMVC21\\BazaSeminari\\BazaSeminari_staro.csproj",
       "packagesPath": "C:\\Users\\jmedv\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jmedv\\source\\repos\\hello-world\\MVC\\AlgebraMVC21\\BazaSeminari\\obj\\",
       "projectStyle": "PackageReference",
