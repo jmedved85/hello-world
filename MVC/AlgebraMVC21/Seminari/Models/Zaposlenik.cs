@@ -12,11 +12,6 @@ namespace Seminari.Models
             Seminars = new HashSet<Seminar>();
         }
      
-        //string ImePrezime
-        //{
-        //    get { this.Ime + " " + this.Prezime; }
-        //}
-
         public int IdZaposlenik { get; set; }
         public string Ime { get; set; }
         public string Prezime { get; set; }

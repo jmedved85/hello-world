@@ -159,3 +159,4 @@ C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5.0\Razor\Views\Predbiljezbas\Details.cshtml.g.cs
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5.0\Razor\Views\Predbiljezbas\Edit.cshtml.g.cs
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5.0\Razor\Views\Predbiljezbas\Index.cshtml.g.cs
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5.0\Razor\Views\Predbiljezbas\Odaberi.cshtml.g.cs

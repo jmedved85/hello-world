@@ -68,6 +68,33 @@ namespace Seminari.Controllers
             return View(predbiljezba);
         }
 
+        public IActionResult Odaberi()
+        {
+            ViewData["IdSeminar"] = new SelectList(_context.Seminars, "IdSeminar", "Naziv");
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Odaberi(Predbiljezba pr)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Add(pr);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+
+            var seminar = pr.IdSeminarNavigation.Naziv;
+            var ime = pr.Ime;
+            var prezime = pr.Prezime;
+            var adresa = pr.Adresa;
+            var email = pr.Email;
+            var telefon = pr.Telefon;            
+
+            return View(pr);
+        }
+
         // GET: Predbiljezbas/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
