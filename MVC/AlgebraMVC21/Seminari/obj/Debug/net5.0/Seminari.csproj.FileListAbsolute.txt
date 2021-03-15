@@ -160,3 +160,10 @@ C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5.0\Razor\Views\Predbiljezbas\Edit.cshtml.g.cs
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5.0\Razor\Views\Predbiljezbas\Index.cshtml.g.cs
 C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5.0\Razor\Views\Predbiljezbas\Odaberi.cshtml.g.cs
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\jmedv\source\repos\hello-world\MVC\AlgebraMVC21\Seminari\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs

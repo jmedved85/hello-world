@@ -1,12 +1,14 @@
 ﻿using System;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Seminari.ViewModels;
 
 #nullable disable
 
 namespace Seminari.Models
 {
-    public partial class Baza_SeminariContext : DbContext
+    public partial class Baza_SeminariContext : IdentityDbContext
     {
         public Baza_SeminariContext()
         {
@@ -32,6 +34,8 @@ namespace Seminari.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.HasAnnotation("Relational:Collation", "Croatian_CI_AS");
 
             modelBuilder.Entity<Predbiljezba>(entity =>
@@ -113,7 +117,8 @@ namespace Seminari.Models
             });
 
             modelBuilder.Entity<Zaposlenik>(entity =>
-            {
+            {               
+
                 entity.HasKey(e => e.IdZaposlenik);
 
                 entity.ToTable("zaposlenik");
@@ -145,5 +150,7 @@ namespace Seminari.Models
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+
+        
     }
 }

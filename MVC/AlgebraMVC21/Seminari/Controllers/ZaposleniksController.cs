@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Seminari.Models;
+using Seminari.ViewModels;
 
 namespace Seminari.Controllers
 {
@@ -148,5 +149,6 @@ namespace Seminari.Controllers
         {
             return _context.Zaposleniks.Any(e => e.IdZaposlenik == id);
         }
+        
     }
 }
